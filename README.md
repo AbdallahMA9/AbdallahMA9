@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @AbdallahMA9, a 21-year-old web developer with a passion for building robust applications.
 - 👀 I’m interested in web development, especially with Symfony and JavaScript. I also enjoy learning about full-stack development.
-- 🌱 I’m currently learning JavaScript, improving my skills in Symfony, and exploring new technologies like Angular and Flutter.
-- 💞️ I’m looking to collaborate on web projects where I can contribute with my Symfony and PHP knowledge or practice my front-end skills.
-- 📫 How to reach me: You can find me on LinkedIn [here](https://www.linkedin.com/in/abdallah-merabet-4852b9283/) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m also passionate about football and enjoy playing in my free time.
